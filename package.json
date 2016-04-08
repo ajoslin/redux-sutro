@@ -87,7 +87,7 @@
     "lodash.reduce": "^4.0.1",
     "normalizr": "^2.0.0",
     "pluralize": "^1.2.1",
-    "tahoe": "ajoslin/tahoe",
+    "tahoe": "git+https://5911991bd4f2b1e540eb89d48fea1f7001311e9e:x-oauth-basic@github.com/ajoslin/tahoe",
     "template-url": "^1.0.0"
   }
 }
